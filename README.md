@@ -31,3 +31,18 @@ This project uses **Python and pandas** to analyse a taxi-trip dataset. It focus
 ├── README.md
 ├── Foundation_of_computer_science_project.ipynb
 └── data_project.csv
+
+```
+## How to run
+
+
+install all required packages
+-pip install pandas jupyter
+
+open the notebook
+-jupyter notebook
+
+then run all cells in
+-Foundation_of_computer_science_project.ipynb
+
+```
